@@ -1,0 +1,42 @@
+body{
+  background-color: whitesmoke;
+  overflow: hidden;
+}
+.blue-circle{
+  background-color: #0063DC;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: relative;
+  top: 12pc;
+  left: 23.5pc;
+  display: inline-block;
+}
+.pink-circle{
+  background-color: #FF0084;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: relative;
+  top: 12pc;
+  left: 23.5pc;
+  display: inline-block;
+}
+#text-logo{
+  display: flex;
+  position: relative;
+  top: 11.5pc;
+  left: 25pc;
+}
+.text-logo-flick{
+  font-size: 70px;
+  color: #0063DC;
+  font-weight: lighter;
+  font-family: Frutiger, fantasy;
+}
+.text-logo-r{
+  font-size: 70px;
+  color: #FF0084;
+  font-weight: lighter;
+  font-family: Frutiger, fantasy;
+}
