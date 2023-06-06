@@ -40,3 +40,21 @@ body{
   font-weight: lighter;
   font-family: Frutiger, fantasy;
 }
+button{
+  position: relative;
+  top: 25pc;
+  border: none;
+  border-radius: 8px;
+  background-color: #272b33;
+  font-size: 20px;
+  color: white;
+  font-family: sans-serif;
+}
+img{
+  background-color: white;
+  border-radius: 20px;
+}
+text{
+  position: relative;
+  bottom: 6px;
+}
